@@ -1,9 +1,8 @@
 Islam Gaber © www.linkedin.com/in/islam-gaber-10a21b244
 <div align="center">
-    <img src="images/blog.PNG" alt="Logo" width="1500" height="500">
+    <img src="images/blog.PNG" alt="Output" width="1500" height="500">
   </a>
  </div>
-# blogging
 
 ## Project setup
 ```
