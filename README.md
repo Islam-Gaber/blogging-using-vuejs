@@ -1,5 +1,9 @@
 Islam Gaber © www.linkedin.com/in/islam-gaber-10a21b244
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/blog.PNG" alt="Logo" width="80" height="80">
+  </a>
+ </div>
 # blogging
 
 ## Project setup
