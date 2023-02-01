@@ -1,4 +1,4 @@
-copywright© Islam Gaber
+Islam Gaber © www.linkedin.com/in/islam-gaber-10a21b244
 # blogging
 
 ## Project setup
