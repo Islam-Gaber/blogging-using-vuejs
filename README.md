@@ -1,4 +1,5 @@
 Islam Gaber © www.linkedin.com/in/islam-gaber-10a21b244
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 # blogging
 
 ## Project setup
